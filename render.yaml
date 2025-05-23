@@ -7,6 +7,6 @@ services:
     startCommand: python tictactoe_bot.py
     envVars:
       - key: BOT_TOKEN
-        value: your_telegram_bot_token
+        value: 7666132298:AAFUHtGiLvBnshvN8t7XFkrNqCTBRxQZPGk
       - key: WEBHOOK_URL
-        value: https://your-render-url.onrender.com
+        value: https://tictactoe-ytpa.onrender.com/
